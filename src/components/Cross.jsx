@@ -8,13 +8,13 @@ const Cross = () => {
       fill="none">
       <path
         d="M21 59L59.8909 20.1091"
-        stroke="black"
+        stroke="#8fff00"
         strokeWidth="7"
         strokeLinecap="round"
       />
       <path
         d="M21 20L59.8909 58.8909"
-        stroke="black"
+        stroke="#8fff00"
         strokeWidth="7"
         strokeLinecap="round"
       />

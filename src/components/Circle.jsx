@@ -6,7 +6,7 @@ const Circle = () => {
       height="80"
       viewBox="0 0 80 80"
       fill="none">
-      <circle cx="40.5" cy="39.5" r="24" stroke="black" strokeWidth="7" />
+      <circle cx="40.5" cy="39.5" r="24" stroke="#00c2ff" strokeWidth="7" />
     </svg>
   );
 };
